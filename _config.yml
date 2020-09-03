@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : uAG3OhdcH8H4fxSqXLyBljA7-gzGzoHsz # LeanCloud App id
-    app_key   : Mzf5m9skSwYVWVXhGiYMNyXs # LeanCloud App key
-    app_class : ThomasBlog # LeanCloud App class
+    app_id    : U4OS3xA4O3SPloEi1TTjIG3H-gzGzoHsz # LeanCloud App id
+    app_key   : XwlAvwrczj2Oo7hYWNHYVV14 # LeanCloud App key
+    app_class : Counter # LeanCloud App class
 
 
 ## => Search
@@ -223,5 +223,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
-
-  baidu-analysis： xxxxxxxxxxxxxxxxxxxxxxxxxxx
