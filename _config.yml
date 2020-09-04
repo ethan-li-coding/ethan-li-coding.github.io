@@ -36,9 +36,9 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : "person" # "person" (default), "organization"
   name      : 李迎松
-  url       :
+  url       : 
   avatar    : # path or url of avatar image (square)
-  bio       : Make your own 3D!
+  bio       : Focus on stereo vision and 3d reconstruction
   email     : ethan.li.whu@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -48,7 +48,7 @@ author:
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : yingsongli # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : 迎松-李-a646481b6 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : ethan-li-coding # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
