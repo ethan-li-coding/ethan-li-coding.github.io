@@ -5,7 +5,7 @@ header:
       zh-Hans : &ZH_HANS  主页
       zh-Hant : &ZH_HANT  主頁
       # @end locale config
-    url: /home.html
+    url: /_layouts/home.html
 
   - titles:
       # @start locale config
