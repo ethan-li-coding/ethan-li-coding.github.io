@@ -13,7 +13,7 @@ header:
       zh-Hans : &ZH_HANS  Github
       zh-Hant : &ZH_HANT  Github
       # @end locale config
-    url: /github.html
+    url: https://github.com/ethan-li-coding
 
   - titles:
       # @start locale config
