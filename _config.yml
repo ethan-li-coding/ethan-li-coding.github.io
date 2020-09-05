@@ -174,7 +174,7 @@ analytics:
   ## Google Analytics
   google:
     tracking_id : UA-177231248-1 # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    anonymize_ip: true # Anonymize IP tracking for Analytics
 
 
 ## => Build
